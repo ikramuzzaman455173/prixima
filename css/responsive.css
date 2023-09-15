@@ -1,0 +1,28 @@
+
+/** media quries  */
+/*! computer size  */
+@media(max-width:1200px) {
+
+}
+
+/*! laptop size  */
+@media (max-width:991px) {
+
+
+}
+
+/*! tab size  */
+@media(max-width:768px) {
+  .top-nav .container .flex{
+  display: flex;
+  flex-direction:column;
+  align-items: center;
+  }
+
+}
+
+
+/*! phone size */
+@media(max-width:400px) {
+
+}
